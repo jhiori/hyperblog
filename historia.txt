@@ -7,6 +7,9 @@ historia larga fin Final finalsote y final de la historia
 
 Cambios listos
 
+<<<<<<< HEAD
 Historia alterna de otro usuario colaborador-Test git collaborator
 
+=======
+>>>>>>> 3a24c8bcdd6a7d34c1185266467ebb8a2e1e96fa
 Segundo cambio para probar reset
